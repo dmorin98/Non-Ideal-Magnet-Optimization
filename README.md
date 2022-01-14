@@ -15,6 +15,6 @@ The optimization algorithm aims to minimize the sum of the squared residuals fro
 
 
 ## Finished Optimization
-
+![end_optimization](https://user-images.githubusercontent.com/52712406/149586896-a0cf6cbd-d49b-4d5a-84f5-357ab01daf43.png)
 
 
