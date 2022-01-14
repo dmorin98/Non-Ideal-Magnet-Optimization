@@ -15,3 +15,6 @@ The optimization algorithm aims to minimize the sum of the squared residuals fro
 
 
 ## Finished Optimization
+
+
+
