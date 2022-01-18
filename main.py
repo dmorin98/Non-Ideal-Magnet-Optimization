@@ -75,7 +75,6 @@ goal_field = B
 y_measure = 200 #array index
 print('Y Height:', y[y_measure])
 
-
 plt.ion()
 fig = plt.figure(figsize= (10,8))
 plt.subplot(2,2,3)
@@ -127,7 +126,6 @@ def objective(x):
     residual.append(residuals)
     return residuals
     
-
 sol = minimize(objective, x0, method='trust-constr')
 print(sol.x)
 plt.show()
